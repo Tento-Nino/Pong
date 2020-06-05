@@ -2,7 +2,6 @@
 # By Nino LoPiccolo
 # Make sound avalible on Linux Chromebook
 # Figure out game start -- Space button as start
-# You win clause ---> restart
 
 import turtle
 import os
